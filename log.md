@@ -33,6 +33,9 @@
 
 **Thoughts** As simple as this project is, I struggled with the naming conventions and file paths of the folder.  I am still troubleshooting and hope to have this running by tonight.
 
+**Links to work**: 
+https://www.thepolyglotdeveloper.com/2016/06/create-a-simple-todo-list-app-using-ionic-2-for-android-and-ios/
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
