@@ -29,9 +29,9 @@
 
 ### Day 2: January 02, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I created a Todo App with Angular 2 and Ionic 2.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** As simple as this project is, I struggled with the naming conventions and file paths of the folder.  I am still troubleshooting and hope to have this running by tonight.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
