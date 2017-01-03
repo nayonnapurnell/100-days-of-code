@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+<!-- ### Day 0: December 31, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -9,17 +9,25 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 0: December 31, 2016 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Calculator App](http://www.example.com) -->
 
 
-### Day 1: June 27, Monday
+### Day 1: January 01, Sunday
+
+**Today's Progress**: I have started the Backend Certification Track on FreeCodeCamp.  I worked on the managing packages with npm.
+
+**Thoughts**:  I was very relieved to begin this program because I struggled heavily with this package during my internship.
+
+**Links to work**:  https://www.freecodecamp.com/challenges/start-a-nodejs-server
+
+### Day 2: January 02, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
