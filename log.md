@@ -17,6 +17,9 @@
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com) -->
+<!-- **Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
 
 
 ### Day 1: January 01, Sunday
@@ -44,8 +47,20 @@ https://www.thepolyglotdeveloper.com/2016/06/create-a-simple-todo-list-app-using
 
 I total win for tonight was I helped someone complete a struggle that they had with the FrontEnd Challenge.
 
+### Day 4: January 04, Wednesday
+
+**Today's Progress**:  I am a part of a challenge within a challenge, (Anything to help my accountability until I get a job).  I created a hello world app in javascript and python.
+
+**Thoughts**:  The challenge was great I had to create a readme.md file and the actual files.  The difficulty came when I had to push my project to the specific repo and submit a pull request.  I got through the struggle and am grateful for my support.  I was able to get the help and now I am waiting on pull requests.
+
+### Day 5: January 05, Thursday
+
+**Today's Progress**:  Reversed a string in Javascript and Python. Created a read me file and pushed to Github.
 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**:
+
+### Day 6: January 06, Friday
+**Today's Progress**:  Working on pull request reviews for the hello world app and the reverse string app.
+
+**Thoughts**:
