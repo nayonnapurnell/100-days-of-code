@@ -75,11 +75,13 @@ I total win for tonight was I helped someone complete a struggle that they had w
 
 ### Day 8: January 08, Sunday
 
-**Thoughts**:
+**Thoughts**:  I started creating the database through the Workbench.  I immediately started off with error messages due to syntax errors that I got from the tutorial I followed.  Following tutorials have yet to be a perfect fit for giving directions.  I started off with one tutorial until I couldn't repair the errors.  I have decided that I will continue creating a database but I am looking for projects.
 
-**Today's Progress**:
+**Today's Progress**:  I began the creation of a database in Mysql though the Msql Workbench.  I was able to download the software and started creating the fields.
 
 **Links to work**:
+https://www.youtube.com/watch?v=APizgefVDGw&t=353s
+https://www.youtube.com/watch?v=u6p2OU491Ss&t=192s
 
 ### Day 9: January 09, Monday
 
