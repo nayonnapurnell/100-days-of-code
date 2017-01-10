@@ -67,9 +67,9 @@ I total win for tonight was I helped someone complete a struggle that they had w
 
 ### Day 7: January 07, Saturday
 
-**Thoughts**:
+**Thoughts**:  I am getting tired because sometimes I have to do a ton of research before getting a task accomplished.  I am watching videos and finding articles to guide me in the process.
 
-**Today's Progress**:
+**Today's Progress**:  Working on an array in javascript and a list challenge in python.
 
 **Links to work**:
 
@@ -91,3 +91,13 @@ https://www.youtube.com/watch?v=u6p2OU491Ss&t=192s
 
 **Links to work**:
 https://community.risingstack.com/node-js-twitter-bot-tutorial/
+
+<!-- ### Day 10: January 10, Tuesday
+**Today's Progress**:  
+**Thoughts**:
+**Links to work**: -->
+
+<!-- ### Day 9: January 09, Monday
+**Today's Progress**:
+**Thoughts**:
+**Links to work**: -->
