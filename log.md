@@ -64,3 +64,28 @@ I total win for tonight was I helped someone complete a struggle that they had w
 **Today's Progress**:  Working on pull request reviews for the hello world app and the reverse string app.
 
 **Thoughts**:
+
+### Day 7: January 07, Saturday
+
+**Thoughts**:
+
+**Today's Progress**:
+
+**Links to work**:
+
+### Day 8: January 08, Sunday
+
+**Thoughts**:
+
+**Today's Progress**:
+
+**Links to work**:
+
+### Day 9: January 09, Monday
+
+**Thoughts**:  I have had difficulty the past couple of days getting my projects running.  This was something that took an hour and wasn't difficult to complete.  I had to correct a few error messages and then everything was working.  I was starting to get in a rut so I feel much better.
+
+**Today's Progress**:  I created a Twitter bot that retweets anything with the words #Inspire or #inspire.  
+
+**Links to work**:
+https://community.risingstack.com/node-js-twitter-bot-tutorial/
