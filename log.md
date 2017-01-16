@@ -110,6 +110,13 @@ https://community.risingstack.com/node-js-twitter-bot-tutorial/
 **Links to work**:
 http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/
 
+### Day 13: January 13, Friday
+**Today's Progress**:  I continued working on the Ionic 2 app.
+
+**Thoughts**:  Sometimes the tutorials seem very straight forward but they can become time consuming when going from screen to screen.  I have to shout out my husband for getting me an extra monitor to attach to my laptop.
+
+**Links to work**:
+http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/
 
 
 
