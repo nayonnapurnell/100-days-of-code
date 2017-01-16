@@ -97,6 +97,11 @@ https://community.risingstack.com/node-js-twitter-bot-tutorial/
 
 **Thoughts**:  I am apart of a whole year challenge in addition to the 100 day challenge.  I am pleased to do this challenge because it forces me to complete read.md files.  I am also required to save and create files paths within a particular order.  I am also required to make branches and push the commits to the Github repo.  I love these challenges because it requires me to do everything in baby steps but I get to practice very necessary responsibilities of a programmer.
 
+### Day 11: January 11, Wednesday
+**Today's Progress**:  Created READ.md files for my javascript practice files.
+
+**Thoughts**:  Creating the read.md files are just as time consuming as the practice.  I realize that the hour of code is a great way to force myself to write the code but it takes much more time.  I usually have to first research how to complete the task, then I have to complete the task.  Then I have to tell how I completed the task and lastly, I have to push it to the Github repo.  It is also challenging trying to decide what I am going to build each day.  I am sure these are all things evolving developers struggle with.
+
 
 
 <!-- ### Day 9: January 09, Monday
