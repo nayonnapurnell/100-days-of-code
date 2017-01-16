@@ -118,7 +118,13 @@ http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutor
 **Links to work**:
 http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/
 
+### Day 14: January 14, Saturday
+**Today's Progress**:  I worked on starting a Node.js server with @freeCodeCamp Challenges.
 
+**Thoughts**:  The challenges are fun but I seem to find myself in little road blocks.  Sometimes people have answered the questions in other tutorials.
+
+**Links to work**:
+www.freeCodeCamp.com
 
 <!-- ### Day 9: January 09, Monday
 **Today's Progress**:
