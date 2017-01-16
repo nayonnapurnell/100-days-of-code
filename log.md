@@ -102,6 +102,15 @@ https://community.risingstack.com/node-js-twitter-bot-tutorial/
 
 **Thoughts**:  Creating the read.md files are just as time consuming as the practice.  I realize that the hour of code is a great way to force myself to write the code but it takes much more time.  I usually have to first research how to complete the task, then I have to complete the task.  Then I have to tell how I completed the task and lastly, I have to push it to the Github repo.  It is also challenging trying to decide what I am going to build each day.  I am sure these are all things evolving developers struggle with.
 
+### Day 12: January 12, Thursday
+**Today's Progress**:  I researched, deleted, and recreated an Ionic 2 app.
+
+**Thoughts**:  I originally created an Ionic 2 TodoApp.  I thought this App would work because it was a more upto date version.  After doing an ionic serve the app broke.  I was very discouraged because I did not understand the file paths for the folders.  I also realized that software is constantly changing so a tutorial may not work even after a month.  I also realize it depends on the developer who is creating the tutorial.  So the best thing I thought to do was to delete the App and start a new tutorial.
+
+**Links to work**:
+http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/
+
+
 
 
 <!-- ### Day 9: January 09, Monday
