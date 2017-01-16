@@ -92,10 +92,12 @@ https://www.youtube.com/watch?v=u6p2OU491Ss&t=192s
 **Links to work**:
 https://community.risingstack.com/node-js-twitter-bot-tutorial/
 
-<!-- ### Day 10: January 10, Tuesday
-**Today's Progress**:  
-**Thoughts**:
-**Links to work**: -->
+### Day 10: January 10, Tuesday
+**Today's Progress**:    I practiced javascript array problems.  I saved it and pushed it to the Github repo.
+
+**Thoughts**:  I am apart of a whole year challenge in addition to the 100 day challenge.  I am pleased to do this challenge because it forces me to complete read.md files.  I am also required to save and create files paths within a particular order.  I am also required to make branches and push the commits to the Github repo.  I love these challenges because it requires me to do everything in baby steps but I get to practice very necessary responsibilities of a programmer.
+
+
 
 <!-- ### Day 9: January 09, Monday
 **Today's Progress**:
