@@ -126,6 +126,15 @@ http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutor
 **Links to work**:
 www.freeCodeCamp.com
 
+### Day 16: January 16, Monday
+**Today's Progress**:  I worked with practicing Github, undoing merge requests.
+
+**Thoughts**:  I had to do some research but I was able to reset a commit, create a branch and merge the files after getting repetitive error messages.
+
+**Links to work**:
+https://github.com/nayonnapurnell/2017Challenges
+
+
 <!-- ### Day 9: January 09, Monday
 **Today's Progress**:
 **Thoughts**:
