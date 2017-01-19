@@ -126,13 +126,34 @@ http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutor
 **Links to work**:
 www.freeCodeCamp.com
 
+### Day 15: January 15, Sunday
+**Today's Progress**:  I completed the Ionic 2 app.
+
+**Thoughts**:  I completed the App and still had error messages.  I have decided not to delete the App.  Instead, I will revisit the issue and try to make the corrections accordingly.  I previously spent days trying to complete an App only to have to
+
+**Links to work**:
+http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/
+
 ### Day 16: January 16, Monday
-**Today's Progress**:  I worked with practicing Github, undoing merge requests.
+**Today's Progress**:  I worked with practicing Github, undoing merge requests, creating branches and properly pushing to my github repo.
 
 **Thoughts**:  I had to do some research but I was able to reset a commit, create a branch and merge the files after getting repetitive error messages.
 
 **Links to work**:
 https://github.com/nayonnapurnell/2017Challenges
+
+### Day 17: January 17, Tuesday
+**Today's Progress**:  I worked with selecting random arrays and finding the majority element in an array.
+
+**Thoughts**:  I had to do some research but I was able to reset a commit, create a branch and merge the files after getting repetitive error messages.
+
+**Links to work**:
+https://github.com/nayonnapurnell/2017Challenges
+
+### Day 18: January 18, Wednesday
+**Today's Progress**:  First day of Software Engineering program.  Created a website.  Had to chuckle because already accomplished.
+
+**Thoughts**:  Today is my first day of the online Software Engineering Program.  I took the class because I want to be able to get a job in tech.  I had to laugh because the assignment was a basic html site.  I remember months ago when this was so exciting but I have learned so much over time.  It was great to do it because it was a reminder of my growth.
 
 
 <!-- ### Day 9: January 09, Monday
